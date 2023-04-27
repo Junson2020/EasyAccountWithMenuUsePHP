@@ -36,7 +36,6 @@ echo '            <li class="has-child">';
 echo '               <span class="its-parent">'.GetLangStr($junsonlanguage,"Group").'</span>';
 echo '               <ul class="its-children">';
 echo '                  <li> <a href="grouplist.php"> '.GetLangStr($junsonlanguage,"Group List").' </a> </li>';
-//echo '                  <li> <a href="groupuser.php"> '.$JMORE_GROUP_MENU_ACCOUNTASIGN.' </a> </li>';
 echo '               </ul>';  
 echo '            </li>';
 echo '            <li class="has-child">';
