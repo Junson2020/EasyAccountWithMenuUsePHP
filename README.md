@@ -48,3 +48,7 @@ mariadb 資料庫名稱/帳號/密碼 在設定前須先經過(textencode.php)�
 mariadb connection databaesname/username/password config into globalJunson.inc.php
 
 mariadb 連接 資料庫名稱/帳號/密碼 設定於 globalJunson.inc.php
+
+need to truncate table randpswd/userlicenseall/randkey eyery day
+
+最好每天清除randpswd/userlicenseall/randkey資料表內的資料
